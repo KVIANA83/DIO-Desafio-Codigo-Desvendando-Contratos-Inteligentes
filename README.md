@@ -5,4 +5,4 @@
 
 - **Desafio1:** Explorando Blockchain e Contratos Inteligentes
 - **Desafio2:** Desvendando os Contratos Inteligentes
-- **Desafio3:** 
+- **Desafio3:** Aprofundando em Contratos Inteligentes
